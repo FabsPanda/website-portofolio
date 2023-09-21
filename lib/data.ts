@@ -2,9 +2,9 @@ import React from "react";
 import { AiOutlineCode } from "react-icons/ai";
 import { FaGamepad } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import farbucksImg from "@/public/FArbucks.png";
-import furnidImg from "@/public/FURNID.png";
-import musicplayerImg from "@/public/musicplayer.png";
+import farbucksImg from "/public/FArbucks.png";
+import furnidImg from "/public/FURNID.png";
+import musicplayerImg from "/public/musicplayer.png";
 
 export const links = [
   {
